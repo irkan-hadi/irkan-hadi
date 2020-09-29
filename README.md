@@ -2,7 +2,7 @@
 
 My name is Irkan and I am a certified and experienced Full-Stack Software Developer / Engineer. I am passionate about Software, Web, Data Science, Cyber Security and Blockchain.
 
-### Certificates 📜:
+### 📜Certificates :
 
 #### Microsoft (Cloud, Software and Web):
 - [Microsoft Certified Solutions Developer (MCSD): App Builder (Azure and Web Services)](certificates/Microsoft_MCSD_App_Builder_Azure_And_Web_Services.pdf)
