@@ -1,16 +1,16 @@
 ### Hi there 👋🏻,
 My name is Irkan and I am a certified and experienced Full-Stack Software Developer / Engineer. I am passionate about Software, Web, Data Science, Cyber Security and Blockchain.
-
+---
 ### 💼 Experience:
 10+ years worth of hands-on experience in leading, architecting, managing, integrating and implementing successful technical projects.
-
+---
 ### 🎓 Education:
 Bachelor of Science (B.Sc.):
 
 Major: 👨‍💻 **Computer Science**
 
 Minor: 📈 **Business Administration**
-
+---
 ### 📜 Certificates:
 
 #### Microsoft (Cloud, Software and Web):
