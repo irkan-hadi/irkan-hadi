@@ -1,5 +1,5 @@
 ### Hi there 👋🏻,
-My name is Irkan and I am a certified and experienced Full-Stack Software Developer / Engineer. I am passionate about Software, Web, Data Science, Cyber Security and Blockchain.
+My name is Irkan and I am a certified and experienced Full-Stack Software Developer / Engineer. I am passionate about Software, Web, Cloud, Data Science, Cyber Security and Blockchain.
 
 ---
 ### 💼 Experience:
