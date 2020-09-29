@@ -6,10 +6,10 @@ My name is Irkan and I am a certified and experienced Full-Stack Software Develo
 
 #### Microsoft (Cloud, Software and Web):
 - [Microsoft Certified Solutions Developer (MCSD): App Builder (Azure and Web Services)](certificates/Microsoft_MCSD_App_Builder_Azure_And_Web_Services.pdf)
-- Microsoft Certified Solutions Associate (MCSA): Web Applications
-- Microsoft Certified Professional Developer (MCPD): ASP.NET Developer
-- Microsoft Certified Technology Specialist (MCTS): .Net Framework, ASP.NET Applications
-- Microsoft Specialist (MS): HTML5, JavaScript and CSS3
+- [Microsoft Certified Solutions Associate (MCSA): Web Applications](certificates/Microsoft_MCSA_Web_Applications.pdf)
+- [Microsoft Certified Professional Developer (MCPD): ASP.NET Developer](certificates/Microsoft_MCPD_ASP.NET_Developer.pdf)
+- [Microsoft Certified Technology Specialist (MCTS): .Net Framework, ASP.NET Applications](certificates/Microsoft_MCTS_.Net_Framework_ASP.NET_Applications.pdf)
+- [Microsoft Specialist (MS): HTML5, JavaScript and CSS3](certificates/Microsoft_MS_HTML5_JavaScript_CSS3.pdf)
 
 #### BerkeleyX (Software as a Service):
 - Advanced Software as a Service (SaaS)
