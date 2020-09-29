@@ -1,5 +1,5 @@
 ## Hi there 👋🏻, I am Irkan Hadi 😄
-I am a certified and experienced Full-Stack Software Developer / Engineer. I am passionate about Software, Web, Cloud, Data Science, Cyber Security and Blockchain.
+I am a certified and experienced full-stack software developer / engineer. I am passionate about software, web, cloud, data science, cyber security and blockchain.
 
 ## 💼 Experience
 10+ years worth of hands-on experience in leading, architecting, managing, integrating and implementing successful technical projects.
