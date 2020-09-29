@@ -6,8 +6,10 @@ My name is Irkan and I am a certified and experienced Full-Stack Software Develo
 
 ### 🎓 Education:
 Bachelor of Science (B.Sc.):
-Major: 👨‍💻 Computer Science
-Minor: 📈 Business Administration
+
+Major: 👨‍💻 **Computer Science**
+
+Minor: 📈 **Business Administration**
 
 ### 📜 Certificates:
 
