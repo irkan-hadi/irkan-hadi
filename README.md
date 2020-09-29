@@ -1,4 +1,4 @@
-## Hi there 👋🏻, I am Irkan Hadi
+## Hi there 👋🏻, I am Irkan Hadi 😄
 I am a certified and experienced Full-Stack Software Developer / Engineer. I am passionate about Software, Web, Cloud, Data Science, Cyber Security and Blockchain.
 
 ## 💼 Experience
@@ -6,6 +6,12 @@ I am a certified and experienced Full-Stack Software Developer / Engineer. I am 
 
 ## 🎓 Education
 Bachelor of Science (B.Sc.), Major: 👨‍💻 **Computer Science** | Minor: 📈 **Business Administration**
+
+## 🐱‍💻 Side Projects:
+- [Android Wear Carbon Fiber Watch Face](https://play.google.com/store/apps/details?id=net.arkandroid.irkan.carbon_fiber_watch_face)
+- [Real-time Offline Objects Recognition (ROOR) Progressive Web App (PWA)](https://irkan-hadi.github.io/roor/index.html)
+- [QR Code Scanner Progressive Web App (PWA)](https://irkan-hadi.github.io/QR-Scanner/app/index.html)
+- [Tic Tac Toe Progressive Web App (PWA)](https://pwatictactoe.web.app/)
 
 ## 📜 Certificates
 
