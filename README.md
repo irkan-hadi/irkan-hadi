@@ -41,39 +41,3 @@ Minor: 📈 **Business Administration**
 
 [![Irkan's github stats](https://github-readme-stats.vercel.app/api?username=irkan-hadi&count_private=true&show_icons=true&theme=default)](https://github.com/irkan-hadi/github-readme-stats)
 
-
-
-<div class="Popover-message Popover-message--large Box box-shadow-large Popover-message--bottom-left" style="width:360px;">
-   <div>
-      <div class="pb-3 px-3">
-         <div class="d-flex mt-3">
-            <div class="flex-self-start">
-               <div class="rounded-1 overflow-hidden">
-                  <a href="/irkan-hadi">
-                  <img class="d-block avatar-user" src="https://avatars1.githubusercontent.com/u/2753005?s=120&amp;v=4" width="60" height="60" alt="@irkan-hadi">
-                  </a>      
-               </div>
-            </div>
-            <div class="overflow-hidden ml-3">
-               <div class="h5">Arctic Code Vault Contributor</div>
-               <p class="mt-1 lh-condensed">
-                  <span>
-                  <a class="f5 text-bold link-gray-dark" href="/irkan-hadi">Irkan</a>
-                  </span>
-                  <span class="f5">
-                  contributed code to several repositories in the <a class="f5 text-bold link-gray-dark" href="https://archiveprogram.github.com/">2020 GitHub Archive Program</a>:
-                  </span>
-               </p>
-               <p class="mt-1 lh-condensed">
-                  <a href="/angular/material">angular/material</a>,
-                  <a href="/dotnet/machinelearning">dotnet/machinelearning</a>,
-                  <a href="/dotnet/machinelearning-samples">dotnet/machinelearning-samples</a>, and more!
-               </p>
-            </div>
-         </div>
-         <div class="sr-only">
-            Press escape to close this hovercard
-         </div>
-      </div>
-   </div>
-</div>
