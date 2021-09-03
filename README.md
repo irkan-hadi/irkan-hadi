@@ -25,7 +25,7 @@ Bachelor of Science (B.Sc.), Major: 👨‍💻 **Computer Science** | Minor: �
 - [Microsoft Specialist (MS): HTML5, JavaScript and CSS3](certificates/Microsoft_MS_HTML5_JavaScript_CSS3.pdf)
 
 ## Kaggle (Machine Learning)
-- [Intermediate Machine Learning.png](certificates/Intermediate Machine Learning.png)
+- [Intermediate Machine Learning.png]("certificates/Intermediate Machine Learning.png")
 
 ### IBM (Data Science)
 - [IBM Data Science Foundations Specialization](https://www.youracclaim.com/badges/9615b66c-84dd-419f-bd40-c3cc0b4dd6a3)
