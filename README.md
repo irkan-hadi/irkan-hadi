@@ -24,12 +24,15 @@ Bachelor of Science (B.Sc.), Major: 👨‍💻 **Computer Science** | Minor: �
 - [Microsoft Certified Technology Specialist (MCTS): .Net Framework, ASP.NET Applications](certificates/Microsoft_MCTS_.Net_Framework_ASP.NET_Applications.pdf)
 - [Microsoft Specialist (MS): HTML5, JavaScript and CSS3](certificates/Microsoft_MS_HTML5_JavaScript_CSS3.pdf)
 
-### BerkeleyX (Software as a Service)
-- [Advanced Software as a Service (SaaS)](certificates/BerkeleyX_Advanced_Software_as_a_Service_SaaS.pdf)
+## Kaggle (Machine Learning)
+- [Intermediate Machine Learning.png](certificates/Intermediate Machine Learning.png)
 
 ### IBM (Data Science)
 - [IBM Data Science Foundations Specialization](https://www.youracclaim.com/badges/9615b66c-84dd-419f-bd40-c3cc0b4dd6a3)
 - [IBM Developer Skills Network: Python for Data Science and AI](https://www.youracclaim.com/badges/9731f3e6-db84-44fd-b5c9-98f8a312d99e)
+
+### BerkeleyX (Software as a Service)
+- [Advanced Software as a Service (SaaS)](certificates/BerkeleyX_Advanced_Software_as_a_Service_SaaS.pdf)
 
 ### Axelos (Project Management)
 - [Information Technology Infrastructure Library (ITIL)](certificates/Axelos_ITIL.pdf)
