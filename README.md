@@ -39,7 +39,7 @@ Bachelor of Science (B.Sc.), Major: 👨‍💻 **Computer Science** | Minor: �
 ### APMG-International (Project Management / Change Management)
 - [Information Technology Infrastructure Library (ITIL)](certificates/Axelos_ITIL.pdf)
 - [Projects In Controlled Environments (PRINCE2)](certificates/Axelos_PRINCE2.pdf)
-- [Change Management](Change_Management_Foundation_Badge.pdf)
+- [Change Management](certificates/Change_Management_Foundation_Badge.pdf)
 
 ### University of Nicosia (Blockchain and Digital Currencies)
 - [Introduction To Digital Currencies](certificates/University_of_Nicosia_Digital_Currencies.pdf)
