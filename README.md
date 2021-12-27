@@ -36,9 +36,10 @@ Bachelor of Science (B.Sc.), Major: 👨‍💻 **Computer Science** | Minor: �
 ### BerkeleyX (Software as a Service)
 - [Advanced Software as a Service (SaaS)](certificates/BerkeleyX_Advanced_Software_as_a_Service_SaaS.pdf)
 
-### Axelos (Project Management)
+### APMG-International (Project Management / Change Management)
 - [Information Technology Infrastructure Library (ITIL)](certificates/Axelos_ITIL.pdf)
 - [Projects In Controlled Environments (PRINCE2)](certificates/Axelos_PRINCE2.pdf)
+- [CHange Management](Change_Management_Foundation_Badge.pdf)
 
 ### University of Nicosia (Blockchain and Digital Currencies)
 - [Introduction To Digital Currencies](certificates/University_of_Nicosia_Digital_Currencies.pdf)
