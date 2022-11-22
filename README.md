@@ -49,5 +49,5 @@ Bachelor of Science (B.Sc.), Major: 👨‍💻 **Computer Science** | Minor: �
 - [Certified Ethical Hacker (CEH)](certificates/EC-Council_CEH_V9.pdf)
 
 ---
-[![Irkan's github stats](https://github-readme-stats.vercel.app/api?username=irkan-hadi&count_private=true&show_icons=true&theme=default)](https://github.com/irkan-hadi/github-readme-stats)
+
 
