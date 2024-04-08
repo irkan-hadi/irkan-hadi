@@ -9,8 +9,8 @@ Bachelor of Science (B.Sc.), Major: 👨‍💻 **Computer Science** | Minor: �
 
 ## 🐱‍💻 Side Projects:
 - Android Wear Carbon Fiber Watch Face
-- Real-time Offline Objects Recognition (ROOR) Progressive Web App (PWA)
-- QR Code Scanner Progressive Web App (PWA)
+- [Real-time Offline Objects Recognition (ROOR) Progressive Web App (PWA)](https://irkan-hadi.github.io/roor/index.html)
+- [QR Code Scanner Progressive Web App (PWA)](https://irkan-hadi.github.io/QR-Scanner/app/index.html)
 - [Tic Tac Toe Progressive Web App (PWA)](https://pwatictactoe.web.app/)
 - [Hala Matrah: Matrah City Tourists Progressive Web App (PWA)](https://matrah-city.firebaseapp.com/)
 - [Muscat Weather Progressive Web App (PWA)](https://muscat-weather.firebaseapp.com/)
