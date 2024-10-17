@@ -1,5 +1,5 @@
 ## Hi there 👋🏻, I am Irkan Hadi 😄
-I am a certified and experienced senior full-stack software developer / engineer base in Australia 🇦🇺🦘🐨. I work with software, web, cloud, machine learning, ai, computer vision, data science, and cyber security.
+I am a certified and experienced senior full-stack software developer / engineer based in Australia 🇦🇺🦘🐨. I work with software, web, cloud, machine learning, ai, computer vision, data science, and cyber security.
 
 ## 💼 Experience
 10+ years worth of hands-on experience in leading, architecting, managing, integrating and implementing successful technical projects across diverse industries.
