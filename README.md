@@ -1,22 +1,13 @@
 ## Hi there 👋🏻, I am Irkan Hadi 😄
-I am a certified and experienced senior full-stack software developer / engineer. I am passionate about software, web, cloud, data science, cyber security and blockchain.
+I am a certified and experienced senior full-stack software developer / engineer. I work with software, web, cloud, data science, and cyber security.
 
 ## 💼 Experience
-10+ years worth of hands-on experience in leading, architecting, managing, integrating and implementing successful technical projects.
+10+ years worth of hands-on experience in leading, architecting, managing, integrating and implementing successful technical projects across diverse industries.
 
 ## 🎓 Education
 Bachelor of Science (B.Sc.), Major: 👨‍💻 **Computer Science** | Minor: 📈 **Business Administration**
 
-## 🐱‍💻 Side Projects:
-- Android Wear Carbon Fiber Watch Face
-- [Real-time Offline Objects Recognition (ROOR) Progressive Web App (PWA)](https://irkan-hadi.github.io/roor/index.html)
-- [QR Code Scanner Progressive Web App (PWA)](https://irkan-hadi.github.io/QR-Scanner/app/index.html)
-- [Tic Tac Toe Progressive Web App (PWA)](https://pwatictactoe.web.app/)
-- [Hala Matrah: Matrah City Tourists Progressive Web App (PWA)](https://matrah-city.firebaseapp.com/)
-- [Muscat Weather Progressive Web App (PWA)](https://muscat-weather.firebaseapp.com/)
-
 ## 📜 Certificates
-
 ### Microsoft (Cloud, Software and Web)
 - [Microsoft Certified Solutions Developer (MCSD): App Builder (Azure and Web Services)](certificates/Microsoft_MCSD_App_Builder_Azure_And_Web_Services.pdf)
 - [Microsoft Certified Solutions Associate (MCSA): Web Applications](certificates/Microsoft_MCSA_Web_Applications.pdf)
@@ -47,6 +38,14 @@ Bachelor of Science (B.Sc.), Major: 👨‍💻 **Computer Science** | Minor: �
 
 ### EC-Council (Cyber Security)
 - [Certified Ethical Hacker (CEH)](certificates/EC-Council_CEH_V9.pdf)
+
+## 🐱‍💻 Side Projects:
+- Android Wear Carbon Fiber Watch Face
+- [Real-time Offline Objects Recognition (ROOR) Progressive Web App (PWA)](https://irkan-hadi.github.io/roor/index.html)
+- [QR Code Scanner Progressive Web App (PWA)](https://irkan-hadi.github.io/QR-Scanner/app/index.html)
+- [Tic Tac Toe Progressive Web App (PWA)](https://pwatictactoe.web.app/)
+- [Hala Matrah: Matrah City Tourists Progressive Web App (PWA)](https://matrah-city.firebaseapp.com/)
+- [Muscat Weather Progressive Web App (PWA)](https://muscat-weather.firebaseapp.com/)
 
 ---
 
